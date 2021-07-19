@@ -1,0 +1,54 @@
+body{
+    background-color: #ADD8E6;
+    
+
+}
+
+.page-header {
+    background-image: url(catpink.jpg);
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    ;
+    color: #a714e0;
+    font-size: 36pt;
+    text-decoration: none;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000;
+    
+}
+footer {
+color: white;
+background: #4e78a0;
+width: 98%;  
+height: 2cm;
+bottom: 0px;
+position: absolute;
+position: grid;
+
+  }
+      
+input.nome
+{
+    display:grid;
+    width:225px;
+    
+}
+input.email
+{
+    display:grid;
+    width:225px;
+}
+input.clickMe
+{
+    display:grid;
+    width:225px;
+    background-color: #F4D9D0;
+}
+
+@font-face { font-family: fonteFofa; src: url('fontefofa.ttf');
+      fonteFofa {
+        font-family: fonteFofa;
+     }
